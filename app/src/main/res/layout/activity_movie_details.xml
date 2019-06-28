@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/backgroundColour"
     tools:context=".MovieDetailsActivity">
 
     <TextView
@@ -11,6 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Movie Title"
+        android:textColor="@color/textColour"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.013"
@@ -34,6 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="5dp"
         android:text="Movie overview and synopsis."
+        android:textColor="@color/textColour"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -45,6 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="5dp"
         android:text="Release Date:"
+        android:textColor="@color/textColour"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/rbVoteAverage" />

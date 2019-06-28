@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_margin="5dp"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content" >
 
     <ImageView
         android:id="@+id/ivBackdropImage"
@@ -25,6 +25,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/ivBackdropImage"
+        android:background="@color/backgroundColour"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0">
 
@@ -33,6 +34,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Movie Title"
+            android:textColor="@color/textColour"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <TextView
@@ -40,7 +42,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="0dp"
-            android:text="Movie overview and synopsis." />
+            android:paddingRight="5dp"
+            android:text="Movie overview and synopsis."
+            android:textColor="@color/textColour" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
