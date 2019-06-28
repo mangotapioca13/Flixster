@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1e3ce72aa9d564ad47abbac371eeddfd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5eee51ec2a4e52f90708b70964c72c96/AndroidManifest.xml:2:1-11:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/de0bc41a412d837b24ca694fd33d778a/AndroidManifest.xml:2:1-12:12
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/6d7f6e91ce84a8ce2749fc7dfa39466d/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/8c1b13dd23d588186a699121944231db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/6ff43a9f7a686efc505be352732815af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/2c48e62016869114a15ec6856afc7732/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/17be7a98a8a2280743402329304ac640/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/440dc1c239f6a1d9b67d172ffae566b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/a7f41198919d167e9052a8ac42b41f3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/4ea73aa433012fb2dcee2c86ddecb0bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1a6d9887990f0f83ee7b1384f023488c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/05e236785af5a27bd0169997a81619de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/ee59cf55ccf9abfbc25e0014401348dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/8f69a32c7b0fd894c2ffcd25caf0083d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/e5d9531a617f2eae67770552d58294c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/9e616338a39f315d3551b6303702c0f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/2a917a29d0b2a4499441a8d458dbe7f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/d164f9295f18326e6110e76b400160e6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0e6c2b2d963ec6fc9ed21a43052138a6/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5449a6e0810edf9be2b940bd47e20b6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/c03323d615dd1903a6d7d8367ac382c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1d2de03fc6f3a51ebe656d6db76d9362/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/de88c5acd3b51826e7195d098f104c98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0bcd19fe870cee4b792e53f3c144e106/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/4140c196e88239047144fc63b4da0643/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/9f69b59691d2dc0d670520a705e78215/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/08193dbe1d0b04f2de5b1ed406f75be8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/a940f1395ef9b09813997702935cab3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/cdd661399597fb97d434e993f87a8588/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5eee51ec2a4e52f90708b70964c72c96/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5eee51ec2a4e52f90708b70964c72c96/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/d164f9295f18326e6110e76b400160e6/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/d164f9295f18326e6110e76b400160e6/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0e6c2b2d963ec6fc9ed21a43052138a6/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0e6c2b2d963ec6fc9ed21a43052138a6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/d164f9295f18326e6110e76b400160e6/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.flixster.MovieDetailsActivity
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:15:9-67
+	android:name
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:15:19-55
+activity#com.example.flixster.MainActivity
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1e3ce72aa9d564ad47abbac371eeddfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1e3ce72aa9d564ad47abbac371eeddfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5eee51ec2a4e52f90708b70964c72c96/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5eee51ec2a4e52f90708b70964c72c96/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/de0bc41a412d837b24ca694fd33d778a/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.2] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/de0bc41a412d837b24ca694fd33d778a/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/6d7f6e91ce84a8ce2749fc7dfa39466d/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/6d7f6e91ce84a8ce2749fc7dfa39466d/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/8c1b13dd23d588186a699121944231db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/8c1b13dd23d588186a699121944231db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/6ff43a9f7a686efc505be352732815af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/6ff43a9f7a686efc505be352732815af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/2c48e62016869114a15ec6856afc7732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/2c48e62016869114a15ec6856afc7732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/17be7a98a8a2280743402329304ac640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/17be7a98a8a2280743402329304ac640/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/440dc1c239f6a1d9b67d172ffae566b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/440dc1c239f6a1d9b67d172ffae566b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/a7f41198919d167e9052a8ac42b41f3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/a7f41198919d167e9052a8ac42b41f3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/4ea73aa433012fb2dcee2c86ddecb0bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/4ea73aa433012fb2dcee2c86ddecb0bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1a6d9887990f0f83ee7b1384f023488c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1a6d9887990f0f83ee7b1384f023488c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/05e236785af5a27bd0169997a81619de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/05e236785af5a27bd0169997a81619de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/ee59cf55ccf9abfbc25e0014401348dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/ee59cf55ccf9abfbc25e0014401348dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/8f69a32c7b0fd894c2ffcd25caf0083d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/8f69a32c7b0fd894c2ffcd25caf0083d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/e5d9531a617f2eae67770552d58294c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/e5d9531a617f2eae67770552d58294c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/9e616338a39f315d3551b6303702c0f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/9e616338a39f315d3551b6303702c0f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/2a917a29d0b2a4499441a8d458dbe7f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/2a917a29d0b2a4499441a8d458dbe7f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/d164f9295f18326e6110e76b400160e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/d164f9295f18326e6110e76b400160e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0e6c2b2d963ec6fc9ed21a43052138a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0e6c2b2d963ec6fc9ed21a43052138a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5449a6e0810edf9be2b940bd47e20b6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/5449a6e0810edf9be2b940bd47e20b6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/c03323d615dd1903a6d7d8367ac382c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/c03323d615dd1903a6d7d8367ac382c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1d2de03fc6f3a51ebe656d6db76d9362/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/1d2de03fc6f3a51ebe656d6db76d9362/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/de88c5acd3b51826e7195d098f104c98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/de88c5acd3b51826e7195d098f104c98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0bcd19fe870cee4b792e53f3c144e106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/0bcd19fe870cee4b792e53f3c144e106/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/4140c196e88239047144fc63b4da0643/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/4140c196e88239047144fc63b4da0643/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/9f69b59691d2dc0d670520a705e78215/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/9f69b59691d2dc0d670520a705e78215/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/08193dbe1d0b04f2de5b1ed406f75be8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/08193dbe1d0b04f2de5b1ed406f75be8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/a940f1395ef9b09813997702935cab3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/a940f1395ef9b09813997702935cab3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/cdd661399597fb97d434e993f87a8588/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/angelaliu99/.gradle/caches/transforms-2/files-2.1/cdd661399597fb97d434e993f87a8588/AndroidManifest.xml:20:5-44
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angelaliu99/AndroidStudioProjects/Flixster/app/src/main/AndroidManifest.xml
